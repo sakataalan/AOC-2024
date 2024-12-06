@@ -1,0 +1,8 @@
+# ignora arquivos txt
+*.txt
+
+# ignore a pasta vscode
+.vscode/
+
+# ignora arquivos sem extensão (produzidos pelo g++)
+*.

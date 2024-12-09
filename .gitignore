@@ -5,5 +5,3 @@
 .vscode/
 
 # ignora arquivos sem extensão (produzidos pelo g++)
-**/*
-!**/*.*
